@@ -31,7 +31,7 @@
 			<p><b>Friday</b></p>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>Saturday/Sunday</p>
+			<p><b>Saturday/Sunday</b></p>
 		</div>
 	</div>
 
@@ -170,8 +170,7 @@
 			<br><br>
 		</div>
 	</div>
-
-	lop;k,mfc 
+	
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
