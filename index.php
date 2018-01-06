@@ -32,9 +32,96 @@
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
 			<center><p>##</p></center>
 		</div>
-		
-	</center>
 	</div>
+	<div class="row" id="cborder">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+	</div>
+	<div class="row" id="cborder">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+	</div>
+	<div class="row" id="cborder">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+	</div>
+	<div class="row" id="cborder">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<center><p>##</p></center>
+		</div>
+	</div>
+	
+
+	</div><!-- container -->
+
+
 
 
 <?php require_once('footer.php'); ?>
