@@ -12,27 +12,27 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-xs-1 col-md-1 col-lg-1">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-1 col-md-1 col-lg-1">
+		<div class="col-xs-2 col-md-2 col-lg-2">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-1 col-md-1 col-lg-1">
+		<div class="col-xs-2 col-md-2 col-lg-2">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-1 col-md-1 col-lg-1">
+		<div class="col-xs-2 col-md-2 col-lg-2">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-1 col-md-1 col-lg-1">
+		<div class="col-xs-2 col-md-2 col-lg-2">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-1 col-md-1 col-lg-1">
+		<div class="col-xs-2 col-md-2 col-lg-2">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-1 col-md-1 col-lg-1">
-			<center><p>##</p></center>
-		</div>
+		
+	</center>
 	</div>
 
 
