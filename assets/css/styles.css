@@ -1,0 +1,32 @@
+body {
+background-color: #DCE7F7;
+}
+
+@font-face {
+	font-family:pretty;
+	src: url(../fonts/pretty.ttf);
+}
+
+h1 {
+	color:#696969;
+  font-family:pretty;
+}
+
+h2 {
+	color:#696969;
+	font-family:pretty;}
+
+h3 {
+	color:#696969;
+	font-family:pretty;
+}
+
+a {
+	color:#696969;
+   font-family:pretty;
+}
+
+p {
+	color:#696969;
+   font-family:pretty;
+}
