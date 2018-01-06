@@ -15,22 +15,22 @@
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<left><p>1.</p></left>
+			<p>1.</p>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<left><p>2.</p></left>
+			<p>2.</p>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<left><p>3.</p></left>
+			<p>3.</p>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<left><p>4.</p></left>
+			<p>4.</p>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<left><p>5.</p></left>
+			<p>5.</p>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<left><p>6.</p></left>
+			<p>6.</p>
 		</div>
 	</div>
 	<div class="row" id="cborder">
