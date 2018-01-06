@@ -5,10 +5,11 @@
 <h1>myPlan</h1>
 <br><br>
 
+<center>
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
-			<h3><u>Calender</u></h3>
+			<center><h3><u>Calender</u></h3></center>
 		</div>
 	</div>
 	<div class="row">
@@ -34,7 +35,7 @@
 			<p>##</p>
 		</div>
 	</div>
-
+</center>
 
 
 <?php require_once('footer.php'); ?>
