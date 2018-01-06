@@ -5,7 +5,6 @@
 <h1>myPlan</h1>
 <br><br>
 
-<center>
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
@@ -14,28 +13,27 @@
 	</div>
 	<div class="row">
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 		<div class="col-xs-1 col-md-1 col-lg-1">
-			<p>##</p>
+			<center><p>##</p></center>
 		</div>
 	</div>
-</center>
 
 
 <?php require_once('footer.php'); ?>
