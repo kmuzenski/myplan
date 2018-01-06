@@ -31,6 +31,10 @@ p {
    font-family:pretty;
 }
 
+.dayleft {
+	text-align: left;
+}
+
 #cborder {
 	height:100%;
 	border-color: #696969;

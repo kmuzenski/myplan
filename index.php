@@ -15,32 +15,32 @@
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>1.</p>
+			<p class="dayleft">1.</p>
 			<a href="newevent.php">+ event</a>
 			<br>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>2.</p>
+			<p class="dayleft">1.</p>
 			<a href="newevent.php">+ event</a>
 			<br>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>3.</p>
+			<p class="dayleft">1.</p>
 			<a href="newevent.php">+ event</a>
 			<br>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>4.</p>
+			<p class="dayleft">1.</p>
 			<a href="newevent.php">+ event</a>
 			<br>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>5.</p>
+			<p class="dayleft">1.</p>
 			<a href="newevent.php">+ event</a>
 			<br>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p>6. / 7.</p>
+			<p class="dayleft">1.</p>
 			<a href="newevent.php">+ event</a>
 			<br>			
 		</div>
