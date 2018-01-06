@@ -16,22 +16,22 @@
 
 	<div class="row" id="cborder">
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p><b>Monday</b></p>
+			<h6><b>Monday</b></h6>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p><b>Tuesday</b></p>
+			<h6><b>Tuesday</b><h6>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p><b>Wednesday</b></p>
+			<h6><b>Wednesday</b></h6>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p><b>Thursday</b></p>
+			<h6><b>Thursday</b></h6>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p><b>Friday</b></p>
+			<h6><b>Friday</b></h6>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<p><b>Saturday/Sunday</b></p>
+			<h6><b>Saturday/Sunday</b></h6>
 		</div>
 	</div>
 
@@ -170,7 +170,7 @@
 			<br><br>
 		</div>
 	</div>
-	
+
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
