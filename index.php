@@ -5,10 +5,11 @@
 <h1>myPlan</h1>
 <br><br>
 
-<div class="container">
+<div class="container" id="cborder">
 	<div class="row">
 		<div class="col-xs-12 col-md-12 col-lg-12">
 			<center><h3><u>Calender</u></h3></center>
+			<br><br>
 		</div>
 	</div>
 	<div class="row">
