@@ -15,106 +15,106 @@
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>1.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>2.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>3.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>4.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>5.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-	</div>
-	<div class="row" id="cborder">
-		<center>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>6.</p></left>
 		</div>
 	</div>
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>7.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>8.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>9.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>10.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>11.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-	</div>
-	<div class="row" id="cborder">
-		<center>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
-		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>12.</p></left>
 		</div>
 	</div>
 	<div class="row" id="cborder">
 		<center>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>13.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>14.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>15.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>16.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>17.</p></left>
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
-			<center><p>##</p></center>
+			<left><p>18.</p></left>
+		</div>
+	</div>
+	<div class="row" id="cborder">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>19.</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>20.</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>21.</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>22.</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>23.</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>24.</p></left>
+		</div>
+	</div>
+	<div class="row" id="cborder">
+		<center>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>##</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>##</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>##</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>##</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>##</p></left>
+		</div>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<left><p>##</p></left>
 		</div>
 	</div>
 	
