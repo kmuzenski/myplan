@@ -14,22 +14,22 @@
 	</div>
 	<div class="row" id="cborder">
 		<center>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" id="dayblock">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" height="500px" width="250px">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" id="dayblock">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" height="500px" width="250px">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" id="dayblock">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" height="500px" width="250px">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" id="dayblock">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" height="500px" width="250px">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" id="dayblock">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" height="500px" width="250px">
 			<center><p>##</p></center>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" id="dayblock">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder" height="500px" width="250px">
 			<center><p>##</p></center>
 		</div>
 	</div>
