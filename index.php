@@ -15,29 +15,23 @@
 	</div>
 
 	<div class="row" id="cborder">
-		<div class="col-xs-2 col-md-2 col-lg-2">
-			<p>Monday</p>
-			<br><br>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<p><b>Monday</b></p>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2">
-			<p>Tuesday</p>
-			<br><br>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<p><b>Tuesday</b></p>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2">
-			<p>Wednesday</p>
-			<br><br>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<p><b>Wednesday</b></p>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2">
-			<p>Thursday</p>
-			<br><br>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<p><b>Thursday</b></p>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2">
-			<p>Friday</p>
-			<br><br>
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
+			<p><b>Friday</b></p>
 		</div>
-		<div class="col-xs-2 col-md-2 col-lg-2">
+		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
 			<p>Saturday/Sunday</p>
-			<br><br>
 		</div>
 	</div>
 
