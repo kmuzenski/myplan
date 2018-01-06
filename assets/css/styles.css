@@ -32,7 +32,7 @@ p {
 }
 
 #cborder {
-
+	height:100%;
 	border-color: #696969;
 	border-width: 2px;
 	border-style: solid;
