@@ -31,6 +31,10 @@
 		</div>
 		<div class="col-xs-2 col-md-2 col-lg-2" id="cborder">
 			<p>6.</p>
+			<hr>
+			<p>7.</p>
+			<a href="newevent.php">+ event</a>
+			<br>
 		</div>
 	</div>
 	<div class="row" id="cborder">
